@@ -1,0 +1,166 @@
+*****Welcome to Task Manager*****
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 1
+Enter task ID: 101
+Enter task title: fix bug
+Enter task priority (lower number = higher priority): 2
+Task added successfully!
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 1
+Enter task ID: 101
+Task ID 101 already exists.
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 1
+Enter task ID: 102
+Enter task title: write bug
+Enter task priority (lower number = higher priority): 2
+Task added successfully!
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 1
+Enter task ID: 103
+Enter task title: test the code
+Enter task priority (lower number = higher priority): 1
+Task added successfully!
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 2
+Highest priority task -> {Id: 103, Title: test the code, Priority: 1}
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 3
+Task completed and removed -> {Id: 103, Title: test the code, Priority: 1}
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 2
+Highest priority task -> {Id: 101, Title: fix bug, Priority: 2}
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 3
+Task completed and removed -> {Id: 101, Title: fix bug, Priority: 2}
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 3
+Task completed and removed -> {Id: 102, Title: write bug, Priority: 2}
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 3
+The task list is empty.
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 2
+The task list is empty.
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 5
+Invalid option. Please choose a valid menu item.
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 1
+Enter task ID: make report
+Task ID and priority must be integers.
+
+----------------------------
+Task Manager Menu
+----------------------------
+1 to Add a new task
+2 to View task
+3 to Remove a task
+4 to Exit the Task Manager
+----------------------------
+Please enter your choice: 4
+You signed out. Have a productive day!
